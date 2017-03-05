@@ -1,6 +1,5 @@
 * {
   background-color: Black;
-  text-align: center;
 }
 
 body {
@@ -29,7 +28,12 @@ p {
   color: Gray;
 }
 
-.CTA {
+.footer {
+  text-align: right;
+  color: gray;
+}
+
+.cta {
     color: Aquamarine;
     font-size: 16px;
     text-align: center;
