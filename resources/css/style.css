@@ -1,0 +1,23 @@
+* {
+  background-color: Black;
+  text-align: center;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.CTA {
+    color: Aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
